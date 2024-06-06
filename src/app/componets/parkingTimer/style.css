@@ -1,0 +1,12 @@
+.parking_icon{
+    width: 80px;
+    margin-right: 10px;
+}
+
+.parkingTime_div{
+    text-align: center;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    border-bottom: black solid 3px;
+}

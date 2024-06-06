@@ -100,6 +100,16 @@ a {
   text-decoration: none;
 }
 
+
+.center_parking{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.pading_0{
+  padding: 0;
+}
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

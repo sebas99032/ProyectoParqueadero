@@ -1,0 +1,12 @@
+.clock{
+    width: 80px;
+    margin-right: 10px;
+}
+.clock_div{
+    text-align: center;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    border-bottom: black solid 3px;
+    border-top: black solid 3px;
+}

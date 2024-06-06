@@ -1,0 +1,12 @@
+.logo{
+    width: 100px;
+    margin-right: 10px;
+}
+.logo_div {
+    color: white;
+    padding: 0;
+    height: 120px;
+  display: flex;
+  align-items: center;
+    background: #0353A4;
+}

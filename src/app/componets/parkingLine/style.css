@@ -1,0 +1,11 @@
+.parking_line_logo{
+    width: 80px;
+    margin-right: 10px;
+}
+.parking_line_div{
+    text-align: center;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    border-bottom: black solid 3px;
+}

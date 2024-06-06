@@ -1,0 +1,17 @@
+.movable-div {
+  width: 350px;
+  height: 350px;
+  display: flex;
+  align-items: center;
+}
+
+.sprite{
+  width: 100%;
+  height: 100%;
+}
+.sprite_b{
+  margin: auto;
+  width: 80%;
+  height: 80%;
+
+}
